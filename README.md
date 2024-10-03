@@ -150,6 +150,7 @@ total_amount_order_source.show()
 Data visualization is a powerful tool for exploring and analysing data. PySpark provides integration with popular visualization libraries, such as Matplotlib. The data_ frame was converted to pandas.
 
 
+![image](https://github.com/user-attachments/assets/3abf744c-1921-4301-a41a-2b5de04e9791)
 
   
 
